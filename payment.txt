@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Payment from Main Branch
+=======
+Payment from Feature Branch
+>>>>>>> feature/payment
